@@ -1,0 +1,18 @@
+(VLISP-PROJECT-LIST
+  :NAME
+  Autolisp-QRcode
+  :OWN-LIST
+  ("tables" "datetime"	  "matrix"	"mask"	      "utils"
+	    "BinaryType"  "math"	"ISO-8859-1"  "encoding"
+	    "draw"	  "main"
+	   )
+  :FAS-DIRECTORY
+  nil
+  :TMP-DIRECTORY
+  nil
+  :PROJECT-KEYS
+  (:BUILD (:standard) :MERGED nil :SAFE-MODE T :MSGLEVEL 1)
+  :CONTEXT-ID
+  :AUTOLISP
+)
+;;; EOF
